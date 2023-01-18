@@ -1,4 +1,6 @@
 ﻿using FluentValidation;
+using System;
+using System.Linq;
 
 namespace ApiCustomer.Validator
 {
@@ -31,9 +33,7 @@ namespace ApiCustomer.Validator
                 .WithMessage("Invalid Cellphone, expected format: (00)00000-0000");
 
             RuleFor(customer => customer.DateOfBirth)
-                .NotEmpty()
-                .LessThanOrEqualTo(DateTime.Now.AddYears(-18))
-                .WithMessage("Invalid DateOfBirth: User must be at least 18 years old.");
+                .NotEmpty();
 
             RuleFor(customer => customer.EmailSms)
                 .Must(x => x == false || x == true);
@@ -68,6 +68,7 @@ namespace ApiCustomer.Validator
         {
             return name.All(i => char.IsLetter(i) || char.IsWhiteSpace(i));
         }
+
 
         
         

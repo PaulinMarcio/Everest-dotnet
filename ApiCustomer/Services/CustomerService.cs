@@ -1,4 +1,7 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace ApiCustomer.Services
 {
@@ -56,6 +59,11 @@ namespace ApiCustomer.Services
         {
             if (_customers.Any(customer => customer.Id == id)) return;
                 throw new Exception($"Customer for ID: {id} not found!");
+        }
+
+        List<Customer> ICustomerService.GetCustomers()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
