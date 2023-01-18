@@ -1,5 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using ApiCustomer.Services;
+using System;
+using Microsoft.AspNetCore.Http;
+using System.Collections.Generic;
+
 namespace ApiCustomer.Controllers
 {
     [ApiController]
