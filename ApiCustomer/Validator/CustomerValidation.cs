@@ -10,7 +10,7 @@ namespace ApiCustomer.Validator
                 .NotEmpty()
                 .WithMessage("Invalid name, name must not be empty.")
                 .Must(IsValidName)
-                .WithMessage("Invalid name, name must have only letters.");
+                .WithMessage("Invalid name, name must have only letters and spaces.");
 
             RuleFor(customer => customer.Email)
                 .NotEmpty()
@@ -36,10 +36,10 @@ namespace ApiCustomer.Validator
                 .WithMessage("Invalid DateOfBirth: User must be at least 18 years old.");
 
             RuleFor(customer => customer.EmailSms)
-                .NotEmpty();
+                .Must(x => x == false || x == true);
 
             RuleFor(customer => customer.Whatsapp)
-                .NotEmpty();
+                .Must(x => x == false || x == true);
 
             RuleFor(customer => customer.Country)
                 .NotEmpty()
@@ -60,13 +60,16 @@ namespace ApiCustomer.Validator
                 .MinimumLength(3)
                 .WithMessage("Invalid Address: Address must have at least 3 letters.");
 
-            RuleFor(customer => customer.Num)
+            RuleFor(customer => customer.Number)
                 .NotNull();
         }
 
         private bool IsValidName(string name)
         {
-            return name.All(Char.IsLetter);
+            return name.All(i => char.IsLetter(i) || char.IsWhiteSpace(i));
         }
+
+        
+        
     }
 }

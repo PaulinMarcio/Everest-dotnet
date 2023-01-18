@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uE0LBio3kebcOYrHO+ngQrMxTAch2A7UhGzKBV9dRZCpWgdjY2byeFz8O0y+e6kn69NKYdsk8ps1p5ySrDoXvQ==",
+  "dgSpecHash": "23Oo/8w73LD3v2VkCi4VCL+M9F5yejitMAEt8CBZNvgBTrdVJKtoWCsD36mVvhz36A5FoKzZWoYREL9u95TAdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\ApiCustomer.csproj",
+  "projectFilePath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\ApiCustomer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcio.paulin_warren\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\marcio.paulin_warren\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

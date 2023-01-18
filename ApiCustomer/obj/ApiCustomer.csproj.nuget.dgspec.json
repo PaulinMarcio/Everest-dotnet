@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\ApiCustomer.csproj": {}
+    "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\ApiCustomer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\ApiCustomer.csproj": {
+    "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\ApiCustomer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\ApiCustomer.csproj",
+        "projectUniqueName": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\ApiCustomer.csproj",
         "projectName": "ApiCustomer",
-        "projectPath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\ApiCustomer.csproj",
+        "projectPath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\ApiCustomer.csproj",
         "packagesPath": "C:\\Users\\marcio.paulin_warren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-Challenge-.NET\\ApiCustomer\\obj\\",
+        "outputPath": "C:\\Users\\marcio.paulin_warren\\source\\repos\\[.NET] 01 - Back-End Criação do usuário\\Everest-dotnet\\ApiCustomer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcio.paulin_warren\\AppData\\Roaming\\NuGet\\NuGet.Config",

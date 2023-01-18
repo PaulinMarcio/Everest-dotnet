@@ -18,7 +18,7 @@ namespace ApiCustomer
             string postalCode,
             string address,
             int number
-            )
+        )
         {
             FullName = fullname;
             Email = email;
@@ -32,7 +32,7 @@ namespace ApiCustomer
             City = city;
             PostalCode = postalCode;
             Address = address;
-            Num = number;
+            Number = number;
         }
         [JsonConstructor]
         public Customer() { }
@@ -49,6 +49,6 @@ namespace ApiCustomer
         public string City { get; set; }
         public string PostalCode { get; set; }
         public string Address { get; set; }
-        public int Num { get; set; }
+        public int Number { get; set; }
     }
 }

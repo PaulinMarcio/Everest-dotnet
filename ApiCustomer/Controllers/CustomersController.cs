@@ -6,11 +6,11 @@ namespace ApiCustomer.Controllers
     [Route("[controller]")]
     public class CustomersController : ControllerBase
     {
-        private readonly ICustomerService _Service;
+        private readonly ICustomerService _customerService;
 
-        public CustomersController(ICustomerService service)
+        public CustomersController(ICustomerService customerService)
         {
-            _Service = service ?? throw new ArgumentNullException(nameof(service));
+            _customerService = customerService ?? throw new ArgumentNullException(nameof(customerService));
         }
 
         [HttpPost(Name = "PostCustomer")]
@@ -20,7 +20,7 @@ namespace ApiCustomer.Controllers
         {
             try
             {
-                var Id = _Service.AddCustomer(body);
+                var Id = _customerService.AddCustomer(body);
                 return Created("New user created. User Id: ", Id);
             }
             catch (Exception e)
@@ -36,7 +36,7 @@ namespace ApiCustomer.Controllers
         {
             try
             {
-                _Service.DeleteCustomer(Id);
+                _customerService.DeleteCustomer(Id);
                 return NoContent();
             }
             catch (Exception e)
@@ -53,7 +53,7 @@ namespace ApiCustomer.Controllers
         {
             try
             {
-                _Service.UpdateCustomer(Id, customer);
+                _customerService.UpdateCustomer(Id, customer);
                 return Ok();
             }
             catch (ArgumentException e)
@@ -71,7 +71,7 @@ namespace ApiCustomer.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public List<Customer> Get()
         {
-            return _Service.GetCustomers();
+            return _customerService.GetCustomers();
         }
 
         [HttpGet("{Id}", Name = "GetCustomerById")]
@@ -81,13 +81,12 @@ namespace ApiCustomer.Controllers
         {
             try
             {
-                return Ok(_Service.GetCustomerById(Id));
+                return Ok(_customerService.GetCustomerById(Id));
             }
             catch (Exception e)
             {
                 return NotFound(e.Message);
             }
         }
-    };
-
+    }
 }
