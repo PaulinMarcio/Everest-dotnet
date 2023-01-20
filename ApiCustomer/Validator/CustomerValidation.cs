@@ -123,5 +123,9 @@ namespace ApiCustomer.Validator
             return cpf.EndsWith(digito);
         }
 
+        public string FormatCPF(string cpf)
+        {
+            return cpf.Trim().Replace(".", "").Replace("-", "").Replace(",", "");
+        }
     }
 }

@@ -73,6 +73,7 @@ namespace ApiCustomer.Controllers
 
         [HttpGet(Name = "GetCustomers")]
         [ProducesResponseType(StatusCodes.Status200OK)]
+
         public List<Customer> Get()
         {
             return _customerService.GetCustomers();

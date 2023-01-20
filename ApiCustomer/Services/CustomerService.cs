@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.RegularExpressions;
 
 namespace ApiCustomer.Services
 {
@@ -10,7 +9,7 @@ namespace ApiCustomer.Services
         private readonly List<Customer> _customers = new();
         public long AddCustomer(Customer customer)
         {
-            customer.Cpf = new Regex("[.-]").Replace(customer.Cpf, string.Empty);
+            customer.Cpf.FormatCPF();
             CustomerAlreadyExists(customer.Email, customer.Cpf);
             customer.Id = _customers.LastOrDefault()?.Id + 1 ?? 1;
             _customers.Add(customer);
@@ -25,7 +24,7 @@ namespace ApiCustomer.Services
         public Customer GetCustomerById(long Id)
         {
             if (_customers.Any(customer => customer.Id == Id)) 
-                return _customers.FirstOrDefault(customer => customer.Id == Id)!;
+                return _customers.FirstOrDefault(customer => customer.Id == Id);
             throw new Exception($"Customer for ID: {Id} not found!");
         }
 
@@ -57,11 +56,6 @@ namespace ApiCustomer.Services
 
                 throw new ArgumentException($"Customer already exists for CPF: {cpf}");
 
-        }
-
-        List<Customer> ICustomerService.GetCustomers()
-        {
-            throw new System.NotImplementedException();
         }
     }
 }
