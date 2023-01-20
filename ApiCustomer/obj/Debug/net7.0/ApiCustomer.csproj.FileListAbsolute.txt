@@ -1,0 +1,108 @@
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\appsettings.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\ApiCustomer.exe
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\ApiCustomer.deps.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\ApiCustomer.runtimeconfig.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\ApiCustomer.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\ApiCustomer.pdb
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.AssemblyReference.cache
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfoInputs.cache
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfo.cs
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CoreCompileInputs.cache
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.ApiCustomer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiCustomer.props
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiCustomer.props
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiCustomer.props
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\scopedcss\bundle\ApiCustomer.styles.css
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CopyComplete
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\refint\ApiCustomer.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.pdb
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ApiCustomer.genruntimeconfig.cache
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\obj\Debug\net7.0\ref\ApiCustomer.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\velko\source\repos\ApiCustomer\ApiCustomer\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\appsettings.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\ApiCustomer.exe
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\ApiCustomer.deps.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\ApiCustomer.runtimeconfig.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\ApiCustomer.pdb
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.AssemblyReference.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfoInputs.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfo.cs
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CoreCompileInputs.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.ApiCustomer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\scopedcss\bundle\ApiCustomer.styles.css
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CopyComplete
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\refint\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.pdb
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ApiCustomer.genruntimeconfig.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-Challenge-.NET\ApiCustomer\obj\Debug\net7.0\ref\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\appsettings.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\ApiCustomer.exe
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\ApiCustomer.deps.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\ApiCustomer.runtimeconfig.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\ApiCustomer.pdb
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.AssemblyReference.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfoInputs.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.AssemblyInfo.cs
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CoreCompileInputs.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.ApiCustomer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiCustomer.props
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\scopedcss\bundle\ApiCustomer.styles.css
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.csproj.CopyComplete
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\refint\ApiCustomer.dll
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.pdb
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ApiCustomer.genruntimeconfig.cache
+C:\Users\marcio.paulin_warren\source\repos\[.NET] 01 - Back-End Criação do usuário\Everest-dotnet\ApiCustomer\obj\Debug\net7.0\ref\ApiCustomer.dll
