@@ -24,8 +24,9 @@ namespace ApiCustomer.Services
 
         public Customer GetCustomerById(long Id)
         {
-            IdExists(Id);
-            return _customers.FirstOrDefault(customer => customer.Id == Id)!;
+            if (_customers.Any(customer => customer.Id == Id)) 
+                return _customers.FirstOrDefault(customer => customer.Id == Id)!;
+            throw new Exception($"Customer for ID: {Id} not found!");
         }
 
         public void DeleteCustomer(long id)
@@ -36,10 +37,13 @@ namespace ApiCustomer.Services
 
         public void UpdateCustomer(long Id, Customer customer)
         {
-            IdExists(Id);
-            customer.Id = Id;
-            var index = _customers.FindIndex(customer => customer.Id == Id);
-            _customers[index] = customer;
+            if (_customers.Any(customer => customer.Id == Id))
+            {
+                customer.Id = Id;
+                var index = _customers.FindIndex(customer => customer.Id == Id);
+                _customers[index] = customer; 
+            }
+            throw new Exception($"Customer for ID: {Id} not found!");
         }
 
         private void CustomerAlreadyExists(string email, string cpf)
@@ -53,12 +57,6 @@ namespace ApiCustomer.Services
 
                 throw new ArgumentException($"Customer already exists for CPF: {cpf}");
 
-        }
-
-        private void IdExists(long id)
-        {
-            if (_customers.Any(customer => customer.Id == id)) return;
-                throw new Exception($"Customer for ID: {id} not found!");
         }
 
         List<Customer> ICustomerService.GetCustomers()
